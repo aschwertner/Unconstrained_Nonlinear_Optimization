@@ -17,7 +17,7 @@ The algorithms were written in the *Julia* programming language, version *1.0.4*
 
 ## How to use
 
-To use any of the methods, just compile their respective code and call the desired function, informing all the necessary parameters. If you have any questions, type ```?"Function_name"´´´ after compiling the code.
+To use any of the methods, just compile their respective code and call the desired function, informing all the necessary parameters. If you have any questions, type *?'Function_name'* after compiling the code.
 
 ## References
 
